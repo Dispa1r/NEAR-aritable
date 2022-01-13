@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bubbly-delight-302203",
+  "private_key_id": "d2953b57ba6e21356db10eafd30d472754c3fd64",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD0dVzcC/7Jg6YH\n0Z/J5M+mgvOvwTpvez8j7KOCTAWxc+ef7N6Ch/qFLDf7s5GUARMlpntzAR3YDjNi\nObENgUvz9jxL5OZiuktORhoWDYCDsBiMQkuCFuZwjC0KPr0ioah9ViH0XDVRctO3\nnV37y+QNbQbW9NaMwIpIz9WvLClSqiQzzpIz8lPgegey6ajO4WxLCTZorRhRER6t\n0vQ+xf2o0tEOU5x/O6Lhbm9CLqatax5pgcSvSaQ08ppGGbgQxpPAU4y3djxblUQ/\nMqBhv34PcIVwhRUgYcE3jFJ6GY4VCKPwbnHYs2boms6gPyQJ633G6kZdOc2bxC4U\nia2UQPqlAgMBAAECggEAPGMii3wOFj8GXF+Y2pGChyZJpsSzl/boz8nE0WrQrDeO\nw/eKNtH63XthH/UJlPdYAMC5tZzUv7qwUEcimMy0E8Gjvva+P6y37g/MoV53/O/a\n/Iji6LGZ/rrt5F4/sAahncaRcDD3/dUA/lZqMUl6XiOs4RxNxKrKbjajGVjuI0xH\nMuC0P8C+U+Pd1eTllD2lz9Gv8cqS5pAmeJxJN70YYYmvlpQ8eqGY8uNrvqt6qsfP\nMOSjYYGKK1HX+MhJYw8v3/8Bq7pO55RLYilXmXiiLSOZHH5H1e0R5GnDSRhEDG5+\n2erMbleCOX5mrj85sru2c/SbNhlMbv9cJpUwD0ur4QKBgQD/Tj56UHK0HOyOJHb6\nUt+rcv+6XJRBZF1PWDleUo4WSmH1KMJJ6tX7IgyBrtwvF6tJlQ4rpmeOXF2K5sg+\n2aEFMJukC7ZoaWQydrF6QkQevWv29pfEBvKI2IxxLVAHvM9hgRIl9agqBJnluOhn\nUT5YqGQ6RLacDnDcH+a2dPzKxQKBgQD1H5D8GBeyMRgHRKEf6qB1kh24kltQb+ng\nuXl448X0JMgi+cyWsTD4GvciEbIfUBn9SsRPi65q7AcueXT6lGoST+Yu0ED+dwZ7\nVuKBVMWZmkdYtvd9vnXEBABa84m8qrwpo0CaONqYnBeVMwl1yf81FnE4DHBqR8N4\nopDff3HuYQKBgQCa1ZcqkxOdjFUit5a4pf4kerABFBiNuBKnBjh0rdiiSCY0iq2a\nKqPvlGzFUYkTvmURUSaw7lCrk/TfQqt7An2XKi2aRcgwdopf2IA2R24MvpB1zIOq\nTRRWTg6OrQ52Qtn6pk6dWujL4tJ68bNwxWLsXeO7OuUMq+1icq53RWfyiQKBgAwI\nRaSqRheAI27P5pzbdo7u4jiaLpNPOwrF7/mILMJkP9K/slQ/VGkJYdIxTi4NT4lI\nb0R8Vc530Y5tddmLCX3moCTyIg6bpxzM0geJMr3sfc4UBSgN/lfl3mKYi81QEDZ3\nBgfL/Kb7Gok/XRqEFNv1Qw9+RNJivWyhhj0CU4RhAoGAA5AbILctb5KvEfE7fYFi\nlfaDSs6Y35xoLmInpQlnto8RkFUrh2/UEmNWsznXCgmgI8QrYjfMqGfYcUcTjazp\nizrE5J7wM2unygc0gf0YK+zbDUkikY6ZPI98fVYrzYF+84DzvoFkqSTOP2HDkaP7\ngYHdCMfuAkSeD/PsXBktKlQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-435@bubbly-delight-302203.iam.gserviceaccount.com",
+  "client_id": "112721178287007149688",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-435%40bubbly-delight-302203.iam.gserviceaccount.com"
+}
